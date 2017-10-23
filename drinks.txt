@@ -2,3 +2,8 @@ Vodka
 Orange juice
 Tequila
 White wine
+
+
+Red Wine
+Rose Wine
+Prosecco
